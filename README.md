@@ -1,5 +1,5 @@
 # Resume
-![](Resume_20220426.jpg)
+![](https://github.com/WCChang1997/Archived/blob/88be2ae1599930c970284b787da1ad64ae007e75/Resume_20220426.jpg)
 ## 個人資訊
 - 名字：張玟棋
 - 聯絡資訊：
