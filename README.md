@@ -19,11 +19,11 @@
 - (2021.02 ~ now) 行動與遍佈式計算實驗室 (Mobile and Pervasive Computing Lab, MPC Lab) 網管
 
 ## 計畫專案
-- (2018) [資料庫系統概論](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=106&Sem=1&CrsNo=1174&lang=zh-tw) Project：House Booking System
-- (2019) [專題：設計可在虛擬實境模擬足部力回饋之氣動鞋](/SjSkIzhtSxiIIFSvKaYJKg)
-- (2020) [網路程式設計概論 Project：BBS System](/eG-xU3vAT_y1fzqq46IigA)
-- (2020) [巨量資料分析技術與應用 Final Project：DDos Analysis](/hzdFShlcTfmTMq104Mmmcg)
-- (2021) [深度學習與實作](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=109&Sem=2&CrsNo=5261&lang=zh-tw) Final Project：STGN (Spatio-Temporal Gated Network) 實作
+- (2018) 資料庫系統概論 Project：House Booking System
+- (2019) [專題：設計可在虛擬實境模擬足部力回饋之氣動鞋](https://github.com/WCChang1997/2019-senior_project.git)
+- (2020) [網路程式設計概論 Project：BBS System](https://github.com/WCChang1997/2020-NP_project.git)
+- (2020) [巨量資料分析技術與應用 Final Project：DDos Analysis](https://github.com/WCChang1997/2020-BD_final_project.git)
+- (2021) 深度學習與實作 Final Project：STGN (Spatio-Temporal Gated Network) 實作
 - (2020 ~ now) CoachAI
 
 ## 論文研究
