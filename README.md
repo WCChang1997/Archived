@@ -1,5 +1,5 @@
 # Resume
-Config files for my GitHub profile.
+![](Resume_20220426.jpg)
 ## 個人資訊
 - 名字：張玟棋
 - 聯絡資訊：
