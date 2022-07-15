@@ -24,7 +24,7 @@
 - (2020) [網路程式設計概論 Project：BBS System](https://github.com/WCChang1997/2020-NP_project.git)
 - (2020) [巨量資料分析技術與應用 Final Project：DDos Analysis](https://github.com/WCChang1997/2020-BD_final_project.git)
 - (2021) 深度學習與實作 Final Project：STGN (Spatio-Temporal Gated Network) 實作
-- (2020 ~ now) CoachAI 羽球賽事分析視覺化平台
+- (2020 ~ now) CoachAI 羽球賽事分析視覺化平台（科技部計畫）
 
 ## 論文研究
 - Docker、Container、K8s、Database
